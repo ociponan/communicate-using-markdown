@@ -1,4 +1,4 @@
-# first header example
+# Step 1. Headers
 
 ## second header example
 
@@ -10,3 +10,6 @@
 
 ###### sixth header example
 
+# Step 2. Image
+
+![Image test](https://octodex.github.com/images/yaktocat.png)
