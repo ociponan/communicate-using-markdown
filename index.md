@@ -22,3 +22,11 @@ import matplolib.pylot as plt
 
 df = pd.read_csv("test_data.csv")
 ```
+
+# Step 4. Task list
+
+- [x] Header Example
+- [x] Image Example
+- [x] Code Example
+- [ ] Task List Example
+- [ ] Merge Pull Request
